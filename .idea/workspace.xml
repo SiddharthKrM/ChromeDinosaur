@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c91b6f3-32f1-4bfa-b172-b47f35a949fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChromeDinosour.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChromeDinosour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/big-cactus1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/big-cactus2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/big-cactus3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/bird.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/bird1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/bird2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/cactus1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/cactus2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/cactus3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/dino-dead.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/dino-duck.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/dino-duck1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/dino-duck2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/dino-jump.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/dino-run.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/dino-run1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/dino-run2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/dino.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/game-over.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/reset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/track.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2iV7tqwMDu72FLiyCh8pU3Bd0od" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/dell/Desktop/chrome-dinosaur-java-master",
+    "onboarding.tips.debug.path": "C:/Users/dell/IdeaProjects/ChromeDinosour/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\IdeaProjects\ChromeDinosour\src" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c91b6f3-32f1-4bfa-b172-b47f35a949fd" name="Changes" comment="" />
+      <created>1719564118129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719564118129</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
